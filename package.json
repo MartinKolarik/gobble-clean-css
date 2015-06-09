@@ -1,0 +1,28 @@
+{
+	"name": "gobble-clean-css",
+	"version": "0.1.0",
+	"description": "Minify CSS files with gobble and clean-css",
+	"homepage": "https://github.com/MartinKolarik/gobble-clean-css/",
+	"github": "https://github.com/MartinKolarik/gobble-clean-css/",
+	"author": {
+		"name": "Martin Kolárik",
+		"email": "martin@kolarik.sk",
+		"url": "https://kolarik.me"
+	},
+	"keywords": [
+		"gobble",
+		"gobble-plugin",
+		"minify css"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"clean-css": "~3.3.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MartinKolarik/gobble-clean-css.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MartinKolarik/gobble-clean-css/issues/"
+	}
+}
